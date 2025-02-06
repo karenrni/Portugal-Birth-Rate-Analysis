@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
-
+This repository contains the code and report for **STA303 Assignment 1**, which explores the impact of literacy and marriage age on family size in Portugal using **Generalized Linear Models (GLMs)**. The analysis is based on data from the **1979 World Fertility Survey (WFS) - Portugal**.
 
 ## File Structure
 
